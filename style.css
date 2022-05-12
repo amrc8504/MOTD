@@ -1,0 +1,51 @@
+* {
+    color: yellow;
+    text-shadow: black;
+}
+
+.body1 {
+    font-family: 'Raleway', sans-serif;
+    background-image: url("https://wallpaperaccess.com/full/869923.gif");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.body1 h1 {
+    text-align: center;
+}
+
+.text-body {
+    padding: 10px;
+}
+
+.discord {
+    text-decoration: none;
+    color: rgb(131, 131, 228);
+}
+
+.discord:hover {
+    text-decoration: underline;
+    color: rgb(131, 131, 228);
+}
+
+.my_icon {
+    height: 350px;
+    width: 350px;
+}
+
+.myFooter {
+    display: block;
+    width: 100%;
+    height: 100px;
+    background-color: black;
+}
+
+.d-logo {
+    height: 25px;
+    width: 25px;
+}
+
+.text-bg {
+    background-color: black;
+}
